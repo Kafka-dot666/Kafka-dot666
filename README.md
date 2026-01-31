@@ -7,5 +7,4 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Kafka-dot666&theme=shadow_red&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kafka-dot666&theme=shadow_red&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-[[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/username)   
-](https://www.codewars.com/users/Castorice/badges/large)
+https://www.codewars.com/users/Castorice/badges/large
