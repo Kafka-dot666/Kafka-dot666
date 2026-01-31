@@ -8,3 +8,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kafka-dot666&theme=shadow_red&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ![codewars](https://www.codewars.com/users/Castorice/badges/large)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
