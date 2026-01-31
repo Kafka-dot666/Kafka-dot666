@@ -9,8 +9,4 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ![codewars](https://www.codewars.com/users/Castorice/badges/large)
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kafka-dot666)](https://github.com/Kafka-dot666/github-readme-stats)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kafka-dot666&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kafka-dot666&layout=compact)](https://github.com/Kafka-dot666/github-readme-stats)
