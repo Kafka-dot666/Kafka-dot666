@@ -15,3 +15,5 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kafka-dot666&theme=midnight_purple)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kafka-dot666&theme=midnight_purple)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kafka-dot666&theme=midnight_purple&utcOffset=8)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kafka-dot666)](https://github.com/Kafka-dot666/github-readme-stats)
