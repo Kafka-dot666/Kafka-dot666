@@ -3,7 +3,9 @@
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
  
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kafka-dot666&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kafka-dot666&theme=hacker-inverted)](https://git.io/streak-stats)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ![codewars](https://www.codewars.com/users/Arlecchino-dot666/badges/large)
