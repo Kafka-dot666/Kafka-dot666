@@ -3,7 +3,7 @@
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
  
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kafka-dot666&theme=hacker-inverted)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kafka-dot666&theme=shadow-purple)](https://git.io/streak-stats)
 
 
 
