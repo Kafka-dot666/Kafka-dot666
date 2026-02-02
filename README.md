@@ -5,16 +5,8 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kafka-dot666&theme=dark&background=000000)](https://git.io/streak-stats)
 
-
-
-
-
-
-
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-[![codewars](https://www.codewars.com/users/Castorice/badges/large)](https://www.codewars.com/users/Arlecchino-dot666/badges/large)
+![codewars](https://www.codewars.com/users/Arlecchino-dot666/badges/large)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kafka-dot666&theme=midnight_purple)
 
